@@ -10,8 +10,10 @@ public class Gravity {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		double g = 9.8;
+		double time = scanner.nextDouble();
 
 
-	}
+
+    }
 }
 
